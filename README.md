@@ -1,7 +1,7 @@
 ## Privacy Policy
 
 1. **Camera Permission**  
-   This application requests the `android.permission.CAMERA` permission solely to enable in‑app testing of real‑time object detection and classification using the device’s camera :contentReference[oaicite:0]{index=0}.
+   This application requests the `android.permission.CAMERA` permission solely to enable in‑app testing of real‑time object detection and classification using the device’s camera.
 
 2. **Purpose of Use**  
    Captured video frames are processed locally on the device—no images or video data are stored, uploaded, or transmitted to any external servers 
